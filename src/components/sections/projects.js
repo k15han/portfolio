@@ -265,7 +265,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Noteworthy Projects & Posts</h2>
+      <h2 ref={revealTitle}>Other Noteworthy Work</h2>
 
       <Link className="inline-link archive-link" to="#projects" ref={revealArchiveLink}>
         view the archive
