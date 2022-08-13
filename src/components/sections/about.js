@@ -145,7 +145,7 @@ const About = () => {
             Whether it is to buy a product, learn a concept or understand how to operate an appliance, words have retained their impeccable value.
             </p>
 
-            <p>With this thought, I’ve had the privilege of working with an <a href='https://testbook.com'> ed-tech company</a>, a <a href='http://web.archive.org/web/20190809144351/https://thecolloquy.in/'> student-led news media outlet</a> and serving clients across the globe on B2B and B2C domains. 
+            <p>With this thought, I’ve had the privilege of working with an <a href='https://testbook.com'> ed-tech company</a>, a <a href='http://web.archive.org/web/20190809144351/https://thecolloquy.in/'> youth-led news portal </a> and serving clients across the globe on B2B and B2C domains. 
               These days I’m working on my <a href='https://kishn.notion.site/Startup-idea-INDAT-v1-2e00975d7cef4850a83e4c6cf16c9480'> startup idea</a> that aims to render easy-to-understand datasets of various sectors in India supplemented with analysis.
             </p>
 
