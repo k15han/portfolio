@@ -1,8 +1,0 @@
-      
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </button>
-      
-      
-      - ShowMore button in Projects
-      - Also remember to add /archive against the 'View the archive' link once the number of projects increases.

@@ -4,7 +4,7 @@ title: 'AI for Dummies'
 external: 'https://kishn.notion.site/Artificial-Intelligence-A-Glimpse-of-the-Future-f86c2db7b06d4a0db2c922ec499adf3e'
 tech:
   - Notion
-company: ''
+company: 'Blue Sky Analytics'
 showInProjects: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '2021-11-12'
 title: 'RBI Cautions Against Crypto'
 github: ''
 external: 'https://kizby.in/rbi-cautions-against-cryptocurrencies/'

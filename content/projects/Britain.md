@@ -1,10 +1,11 @@
 ---
-date: '2019-07-15'
+date: '2021-07-15'
 title: 'Britain and Monarchy'
 external: 'https://kizby.in/why-has-britain-retained-the-monarchy/'
 tech:
   - Column
   - WordPress
+company: 'Kizby'
 showInProjects: true
 ---
 

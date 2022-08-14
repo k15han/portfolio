@@ -6,6 +6,7 @@ tech:
   - Crypto
   - Stocks
   - Investment
+company: 'Medium'
 showInProjects: true
 ---
 
