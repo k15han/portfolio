@@ -3,10 +3,6 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/k15h4n',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/kishthetic',
     },
@@ -17,6 +13,10 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/kishnn',
+    },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/k15h4n',
     },
   ],
 
