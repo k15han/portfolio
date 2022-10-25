@@ -3,7 +3,7 @@ date: '2022-01-01'
 title: 'Content Writer'
 company: 'Testbook'
 location: 'Navi Mumbai, India'
-range: 'January 2022 - Present'
+range: 'January 2022 - October 2022'
 url: 'https://testbook.com/'
 ---
 
