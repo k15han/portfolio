@@ -65,17 +65,17 @@ const Hero = () => {
     <>
       <p>
         I'm a digital marketing specialist serving clients across B2B and B2C domains through exceptional content development, videography and interfaces.
-        I've also curated expereince as a socio-political analyst and column writer. Currently, I’m building an India-centric, easy-to-access data analytics portal.
-      </p>
+        I've also curated expereince as a socio-political analyst and column writer. Currently, I’m rebuilding the brand image of Appventurez through exceptional content strategy.
+    </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://kishn.notion.site/Startup-idea-INDAT-v1-2e00975d7cef4850a83e4c6cf16c9480"
+      href="https://appventurez.com/blog"
       target="_blank"
       rel="noreferrer">
-      Check out the idea behind!
+      Check out the AV blog!
     </a>
   );
 
