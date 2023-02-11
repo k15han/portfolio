@@ -2,7 +2,7 @@
 date: '2'
 title: 'KIZBY - Blog of reason!'
 cover: './demo.png'
-external: 'https://kizby.in/'
+external: 'https://kizby.netlify.app/'
 tech:
   - Blog
   - Bitnami WordPress
