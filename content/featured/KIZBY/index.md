@@ -9,4 +9,4 @@ tech:
   - Netlify
 ---
 
-A dedicated blog that curates analytical articles on several sociopolitical and macroeconomic issues around the world and India. Take a look [here](https://kizby.in).
+A dedicated blog that curates analytical articles on several sociopolitical and macroeconomic issues around the world and India. Take a look [here](https://kizby.netlify.app).
