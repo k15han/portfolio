@@ -1,6 +1,6 @@
 ---
 date: '2016-12-21'
-title: 'Associate Editor'
+title: 'Writer-Editor'
 company: 'The Colloquy'
 location: 'New Delhi, India'
 range: 'February 2019 - December 2020'
