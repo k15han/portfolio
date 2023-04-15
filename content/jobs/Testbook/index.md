@@ -1,6 +1,6 @@
 ---
 date: '2022-01-01'
-title: 'Content Writer'
+title: 'Content Development Executive'
 company: 'Testbook'
 location: 'Navi Mumbai, India'
 range: 'January 2022 - October 2022'
