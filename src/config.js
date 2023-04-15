@@ -3,12 +3,8 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/kishthetic',
-    },
-    {
       name: 'Twitter',
-      url: 'https://twitter.com/kishthetic',
+      url: 'https://twitter.com/kshnnnnn',
     },
     {
       name: 'Linkedin',
