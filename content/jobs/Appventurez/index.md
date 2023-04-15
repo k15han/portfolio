@@ -1,12 +1,12 @@
 ---
 date: '2022-01-01'
-title: 'Senior Content Strategist'
+title: 'Head of Content'
 company: 'Appventurez'
 location: 'Noida, India'
 range: 'October 2022 - Present'
 url: 'https://appventurez.com/blog'
 ---
 
-- Writing blogposts and tech articles on mobile and web app development, and conducting business analytics on B2B domain of the industry vertical.
-- Strategising content development in the marketing team.
-- Reviewing and editing blogposts and webpage content.
+- Writing blogposts and tech articles on AI, DLTs, digital transformation, and conducting business analytics on B2B domain.
+- Strategising content development for branding and building authenticity.
+- Reviewing and managing a team of writers, and guiding them in the production of authoritative content.
