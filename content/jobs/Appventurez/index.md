@@ -1,5 +1,5 @@
 ---
-date: '2022-01-01'
+date: '2022-08-10'
 title: 'Head of Content'
 company: 'Appventurez'
 location: 'Noida, India'
