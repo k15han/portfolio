@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a digital marketing specialist serving clients across B2B and B2C domains through exceptional content development, videography and interfaces.
-        I've also curated expereince as a socio-political analyst and column writer. Currently, I’m rebuilding the brand image of Appventurez through exceptional content strategy.
+        I am a digital marketing specialist serving clients across B2B and B2C domains through exceptional content development, videography and interfaces.
+        I have also curated experience as a socio-political analyst and column writer. Currently, I’m rebuilding the brand image of Appventurez through analytics-driven content strategy.
     </p>
     </>
   );
