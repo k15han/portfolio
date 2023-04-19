@@ -1,7 +1,7 @@
 ---
 date: '2021-07-15'
 title: 'Britain and Monarchy'
-external: 'https://kizby.in/why-has-britain-retained-the-monarchy/'
+external: 'https://kizby.netlify.app/why-has-britain-retained-the-monarchy/'
 tech:
   - Column
   - WordPress
