@@ -2,7 +2,7 @@
 date: '2021-11-12'
 title: 'RBI Cautions Against Crypto'
 github: ''
-external: 'https://kizby.in/rbi-cautions-against-cryptocurrencies/'
+external: 'https://kizby.netlify.app/rbi-cautions-against-cryptocurrencies/'
 tech:
   - Column
   - WordPress
