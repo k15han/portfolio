@@ -146,7 +146,7 @@ const About = () => {
             </p>
 
             <p>With this thought, I’ve had the privilege of working with an <a href='https://testbook.com'> ed-tech company</a>, a <a href='http://web.archive.org/web/20190809144351/https://thecolloquy.in/'> youth-led news portal </a> and serving clients across the globe on B2B and B2C domains. 
-              These days I’m working on rebuilding the brand image and drive leads for <a href='https://appventurez.com'> a leading digital product development company </a> through exceptional content strategy.
+              These days I’m working on rebuilding the brand image and drive leads for <a href='https://sparxitsolutions.com'> a leading digital product development company </a> through exceptional content strategy.
             </p>
 
             <p>The services I provide are in:</p>
