@@ -1,12 +1,13 @@
 ---
-date: '2022-08-10'
-title: 'Head of Content'
-company: 'Appventurez'
+date: '2023-06-05'
+title: 'Team Lead - Content'
+company: 'SparxIT'
 location: 'Noida, India'
-range: 'October 2022 - Present'
-url: 'https://appventurez.com/blog'
+range: 'Juner 2023 - Present'
+url: 'https://sparxitsolutions.com'
 ---
 
+- Managing a team of 10+ writers, and guiding them in the production of authoritative content.
+- Actively involved in formulating and fomatting sales deck pertaining to different industries and services.
 - Writing blogposts and tech articles on AI, DLTs, digital transformation, and conducting business analytics on B2B domain.
 - Strategising content development for branding and building authenticity.
-- Reviewing and managing a team of writers, and guiding them in the production of authoritative content.
