@@ -65,17 +65,17 @@ const Hero = () => {
     <>
       <p>
         I am a digital marketing specialist serving clients across B2B and B2C domains through exceptional content development, videography and interfaces.
-        I have also curated experience as a socio-political analyst and column writer. Currently, I’m rebuilding the brand image of Appventurez through analytics-driven content strategy.
+        I have also curated experience as a socio-political analyst and column writer. Currently, I’m rebuilding growth and overviewing brand identity of SparxIT and its affliated projects through content strategy driven by market-analytics.
     </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://appventurez.com/blog"
+      href="https://sparxitsolutions.com/blog"
       target="_blank"
       rel="noreferrer">
-      Check out the AV blog!
+      Check out the Sparx blog!
     </a>
   );
 
