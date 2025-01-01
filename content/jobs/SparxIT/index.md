@@ -1,13 +1,13 @@
 ---
 date: '2023-06-05'
-title: 'Team Lead - Content'
+title: 'Content Lead'
 company: 'SparxIT'
 location: 'Noida, India'
-range: 'Juner 2023 - Present'
+range: 'June 2023 - Present'
 url: 'https://sparxitsolutions.com'
 ---
 
-- Managing a team of 10+ writers, and guiding them in the production of authoritative content.
-- Actively involved in formulating and fomatting sales deck pertaining to different industries and services.
-- Writing blogposts and tech articles on AI, DLTs, digital transformation, and conducting business analytics on B2B domain.
-- Strategising content development for branding and building authenticity.
+- Managed a team of 15 in-house and client-side writers and facelifted the organization’s brand to a “digital transformation and intelligent tech enabler.”
+- Spearheaded PPCs, featured write-ups, AI training for content design for specific campaigns, etc.
+- Direct partnerships included with US-based AppsChopper, and MENA-based HTMLPanda.
+- Directed content strategy for indigenously-developed SaaS products like SPXCommerce and What's Your A?
